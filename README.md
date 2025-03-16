@@ -2,7 +2,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td valign="top" style="width: 50%; padding: 10px;">
+    <td valign="top" width=450px style="padding: 10px;">
 
 <h3 align="left">💼 Work Experience 💼</h3>
 
@@ -25,7 +25,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width=380px>
 
 <h3 align="left">🤖 Tech Stack 🤖</h3>
 <div align="left">
