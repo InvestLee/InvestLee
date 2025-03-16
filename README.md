@@ -1,3 +1,7 @@
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="width: 50%; padding: 10px;">
+
 <h3 align="left">⚒ Work Experience ⚒</h3>
 
 + 💾LG Innotek, Hardware Engineer (2017.12 ~ 2019.02)
@@ -14,6 +18,12 @@
 + 전기기사
 + 대기환경기사
 + 한국사검정능력시험 1급
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InvestLee&layout=compact)
+
+</td>
+
+<td valign="top" width="50%">
 
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
@@ -75,10 +85,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-<br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InvestLee&layout=compact)
+</td>
+  </tr>
+</table>
 
 <!--
 **InvestLee/InvestLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
