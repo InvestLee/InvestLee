@@ -1,6 +1,6 @@
 # ✨ InvestLee Profile ✨
 
-<table style="width: 120%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td valign="top" style="width: 50%; padding: 10px;">
 
