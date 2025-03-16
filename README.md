@@ -1,10 +1,10 @@
-# InvestLee Profile
+# ✨ InvestLee Profile ✨
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td valign="top" style="width: 50%; padding: 10px;">
 
-<h3 align="left">⚒ Work Experience ⚒</h3>
+<h3 align="left">💼 Work Experience 💼</h3>
 
 + 💾LG Innotek, Hardware Engineer (2017.12 ~ 2019.02)
 + ⚡KAPES, Electrical Engineer (2019.02 ~ 2022.11)
@@ -27,7 +27,7 @@
 
 <td valign="top" width="50%">
 
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h3 align="left">🤖 Tech Stack 🤖</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
